@@ -1,7 +1,11 @@
 {
-  "version": [
+  "posts": [
     {
-      "version": "2.1.0"
+      "id": 1,
+      "title": "hello"
     }
-  ]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
