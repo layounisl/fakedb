@@ -1,11 +1,7 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "hello"
+      "version": "2.1.0"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
